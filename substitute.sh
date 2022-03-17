@@ -19,3 +19,6 @@ do
     [ ${atom_type} == "72" ] && printf "${array[1]}\t${array[2]}\t${array[3]}\t${VAL_72}\n"
 
 done < PS_Corrected.atoms
+
+# Re-pack the simulation box to shift it to start at origin
+cram -box 87.57884525964772 87.57884525964772 87.57884525964772 < PS_Corrected.gfg > PS_Corrected_crammed.gfg
