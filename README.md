@@ -1,7 +1,7 @@
 
 # Project files
 
-![image info](images/'count vs. volume.png')
+![dount_vs_volume](images/count_vs_volume.png)
 
 ## stuff
 
