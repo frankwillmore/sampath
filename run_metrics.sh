@@ -72,3 +72,8 @@ dst2hst -width 5.0 < PS_1M_csa.dst  | tee PS_1M_csa.hst
 
 echo
 
+echo "cavity size distribution:"
+awk '{print $4}' < PS_1M.unq | dst2hst -width 0.125 | tee PS_1M.hst
+
+echo
+
