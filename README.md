@@ -1,30 +1,21 @@
 
 # Project files
 
-![dount_vs_volume](images/count_vs_volume.png)
+## Cavity size distribution, count vs. volume
+![count_vs_volume](images/count_vs_volume.png)
 
-## 'number of clusters vs. radius of gyration.png'  
+## Cavity size distribution, count vs. diameter
+![count_vs_diameter](images/count_vs_diameter.png)
 
-![clusters_vs_radius](images/cluster_count_vs_rog.png)
+## Cavity clusters, number of clusters vs. span
+![cluster_count_vs_span](images/cluster_count_vs_span.png)
 
-## 'number with surface area vs. surface area.png'
+## Cavity size distribution, volume vs. radius
+![volume_vs_radius](images/volume_vs_radius.png)
 
-'number with surface area vs. surface area.png'
+## Cavity cluster distribution, number of clusters vs. radius of gyration  
+![cluster_count_vs_rog](images/cluster_count_vs_rog.png)
 
-## 'number of cavities vs. diameter.png'  
+## Cavity clusters, number vs. surface area
+![cluster_count_vs_surface_area](images/cluster_count_vs_surface_area.png)
 
-'number of cavities vs. diameter.png'  
-
-## 'number of clusters vs. span.png'                
-
-'number of clusters vs. span.png'                
-
-## 'volume with radius vs. radius.png'
-
-'volume with radius vs. radius.png'
-
-cluster_count_vs_span.png
-cluster_count_vs_surface_area.png
-count_vs_diameter.png
-count_vs_volume.png
-volume_vs_radius.png
