@@ -5,7 +5,7 @@
 
 ## 'number of clusters vs. radius of gyration.png'  
 
-![clusters_vs_radius](images/'number of clusters vs. radius of gyration.png')
+![clusters_vs_radius](images/cluster_count_vs_rog.png)
 
 ## 'number with surface area vs. surface area.png'
 
@@ -23,3 +23,8 @@
 
 'volume with radius vs. radius.png'
 
+cluster_count_vs_span.png
+cluster_count_vs_surface_area.png
+count_vs_diameter.png
+count_vs_volume.png
+volume_vs_radius.png
