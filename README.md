@@ -5,8 +5,7 @@
 
 ## 'number of clusters vs. radius of gyration.png'  
 
-![clusters_vs_radius]
-](images/'number of clusters vs. radius of gyration.png')
+![clusters_vs_radius](images/'number of clusters vs. radius of gyration.png')
 
 ## 'number with surface area vs. surface area.png'
 
